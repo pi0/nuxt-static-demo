@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@nuxt/content": "^1.4.0",
-    "@nuxt/static": "^0.0.4",
+    "@nuxt/static": "^0.0.5",
     "nuxt": "^2.13.2"
   }
 }
