@@ -7,6 +7,7 @@
     "static": "nuxt generate"
   },
   "dependencies": {
+    "@nuxt/content": "^1.4.1",
     "nuxt-edge": "^2.14.0-26582020.6ab65fbf"
   }
 }
